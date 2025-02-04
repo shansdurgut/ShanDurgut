@@ -3,17 +3,8 @@ layout: home
 title: Home
 ---
 
-# _config.yml
-title: Shan Durgut
-email: shanshan.durgut@gmail.com
-description: >- 
-   Hi, I'm Shan Durgut, an RF localization and sensor fusion engineer.
-url: "https://shansdurgut.github.io/ShanDurgut/" 
-github_username: shansdurgut
-linkedin_username: Shan Durgut
-
 # About Me
-I design cutting-edge indoor tracking systems that merge data from Ultra-Wideband and Bluetooth sensors using advanced AI models. Recently, I developed a hybrid solution that uses a combination of LSTM and CNN architectures to fuse UWB and BLE data, achieving real-time, high-precision positioning in challenging environments. This approach can significantly enhance applications in smart buildings, robotics, and asset tracking. I’m passionate about leveraging these technologies to solve real-world problems.
+Hi, I'm Shan Durgut, an RF localization and sensor fusion engineer. I design cutting-edge indoor tracking systems that merge data from Ultra-Wideband and Bluetooth sensors using advanced AI models. Recently, I developed a hybrid solution that uses a combination of LSTM and CNN architectures to fuse UWB and BLE data, achieving real-time, high-precision positioning in challenging environments. This approach can significantly enhance applications in smart buildings, robotics, and asset tracking. I’m passionate about leveraging these technologies to solve real-world problems.
 
 ## Experience
 
