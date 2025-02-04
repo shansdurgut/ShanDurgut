@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Courses Completed
+title: Complete Courses List
 permalink: /courses/
 ---
 
