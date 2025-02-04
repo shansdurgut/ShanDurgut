@@ -60,6 +60,6 @@ I am a highly motivated self-learner with a strong background in RF engineering,
 Feel free to reach out to me through any of the following channels:
 
 - Email: shanshan.durgut@gmail.com
-- LinkedIn: Shan Durgut <a href="https://www.linkedin.com/in/shanshanhuang-miray"></a>
-- GitHub: Shan Durgut <a href="https://shansdurgut.github.io/ShanDurgut"></a>
+- LinkedIn: Shan Durgut https://www.linkedin.com/in/shanshanhuang-miray
+- GitHub: Shan Durgut href="https://shansdurgut.github.io/ShanDurgut
 
