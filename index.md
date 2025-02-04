@@ -4,7 +4,7 @@ title: Home
 ---
 
 ## Navigation Manu
-- [View My Courses](/courses)
+- [View My Courses](/courses/)
 
 
 # About Me
