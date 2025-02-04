@@ -31,11 +31,6 @@ Hi, I'm Shan Durgut, an RF localization and sensor fusion engineer. I design cut
 - **Degree** - University of Iowa (Computer Science)
   Brief description or relevant coursework
 
-# contact.md
----
-layout: default
-title: Contact
----
 
 # Get in Touch
 
