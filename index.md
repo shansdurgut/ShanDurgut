@@ -2,16 +2,9 @@
 layout: home
 title: Home
 ---
-<style>
-html, body {
-    margin: 0;
-    padding: 0;
-    min-height: 100vh;
-    background-image: url('https://shansdurgut.github.io/ShanDurgut/assets/images/background_pic.jpg');
-    background-repeat: repeat;
-    background-size: auto;
-}
-</style>
+
+<div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; background: url('https://shansdurgut.github.io/ShanDurgut/assets/images/background_pic.jpg') repeat;">
+</div>
 
 <div style="background-color: rgba(255, 255, 255, 0.9); padding: 20px; margin: 20px; border-radius: 10px;">
 
