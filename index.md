@@ -3,13 +3,6 @@ layout: home
 title: Home
 ---
 
-<div style="position: fixed; top: 5vh; left: 0; width: 100%; height: 100%; z-index: -1; background: url('https://shansdurgut.github.io/ShanDurgut/assets/images/background_pic.jpg') repeat;">
-</div>
-
-<div style="background-color: rgba(255, 255, 255, 0.9); padding: 20px; margin: 20px; border-radius: 10px;">
-    
-<div class="home">
-
 # Welcome to My Portfolio {: .post-title}
 
 <div style="text-align: center;">
@@ -70,3 +63,11 @@ Feel free to reach out to me through any of the following channels:
 - LinkedIn: Shan Durgut | "https://www.linkedin.com/in/shanshanhuang-miray"
 - GitHub: Shan Durgut | "https://shansdurgut.github.io/ShanDurgut"
 
+
+
+<div style="position: fixed; top: 4.7vh; left: 0; width: 100%; height: 100%; z-index: -1; background: url('https://shansdurgut.github.io/ShanDurgut/assets/images/background_pic.jpg') repeat;">
+</div>
+
+<div style="background-color: rgba(255, 255, 255, 0.9); padding: 20px; margin: 20px; border-radius: 10px;">
+    
+<div class="home">
