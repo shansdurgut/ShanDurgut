@@ -64,7 +64,7 @@ Feel free to reach out to me through any of the following channels:
 - GitHub: Shan Durgut, https://shansdurgut.github.io/ShanDurgut
 
 
-<div style="position: fixed; top: 4.8vh; left: 0; width: 100%; height: 100%; z-index: -1; background: rgba(255, 255, 255, 0.8) url('https://shansdurgut.github.io/ShanDurgut/assets/images/background_pic.jpg') repeat;">
+<div style="position: fixed; top: 4.8vh; bottom: 15vh; left: 0; width: 100%; height: 100%; z-index: -1; background: url('https://shansdurgut.github.io/ShanDurgut/assets/images/background_pic.jpg') repeat; opacity: 0.5">
 </div>
 
 <div style="background-color: rgba(255, 255, 255, 0.9); padding: 20px; margin: 20px; border-radius: 10px;">
