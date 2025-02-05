@@ -1,10 +1,7 @@
 ---
 layout: home
-title: Home
+title: Welcome to My Portfolio
 ---
-
-# Welcome to My Portfolio
-
 <img src="assets/images/profile_pic.jpg" alt="Shan Durgut" width="300" height="400" >
 
 # About Me
