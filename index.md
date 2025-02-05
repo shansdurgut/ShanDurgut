@@ -9,13 +9,11 @@ title: Home
 
 # About Me
 Hi, I'm Shan Durgut, an RF localization and sensor fusion engineer. I design cutting-edge indoor tracking systems that merge data from Ultra-Wideband and Bluetooth sensors using advanced AI models. Recently, I developed a hybrid solution that uses a combination of LSTM and CNN architectures to fuse UWB and BLE data, achieving real-time, high-precision positioning in challenging environments. This approach can significantly enhance applications in smart buildings, robotics, and asset tracking. I’m passionate about leveraging these technologies to solve real-world problems.
-
-## Experience
-
-**Current Goals** 
+### Current Goals
 I am a highly motivated self-learner with a strong background in RF engineering, wireless communication, sensor fusion, machine learning. I am dedicated to continuous professional growth. Over the past few years, I have independently pursued online courses certificates and advanced technical projects—including developing an RF localization system using UWB and BLE sensor fusion techniques—to stay at the forefront of emerging technologies. Balancing this commitment with raising two children has honed my time management, adaptability, and problem-solving skills. I am now eager to leverage my self-driven expertise and fresh, innovative insights as I transition back into the industry and contribute to impactful, forward-thinking projects.
 
-# Previous Role
+## Experience
+### Previous Roles
 ### McKesson-Change Healthcare | Dubuque, IA | Aug. 2017 - Aug. 2018
 #### Quality Assurance Engineer
 - Support daily Production Maintenance Requests and update database Payor information values.
