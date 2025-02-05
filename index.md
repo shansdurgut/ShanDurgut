@@ -2,12 +2,18 @@
 layout: home
 title: Home
 ---
-<div style="background-image: url('/assets/images/background_pic.jpg'); background-repeat: repeat; position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1;"></div>
+<style>
+html, body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    background-image: url('https://shansdurgut.github.io/ShanDurgut/assets/images/background_pic.jpg');
+    background-repeat: repeat;
+    background-size: auto;
+}
+</style>
 
-<div style="background-color: rgba(255, 255, 255, 0.8); padding: 20px; border-radius: 10px; position: relative;">
-
-<img src="/assets/images/background_pic.jpg" alt="background picture" width="200">
-
+<div style="background-color: rgba(255, 255, 255, 0.9); padding: 20px; margin: 20px; border-radius: 10px;">
 
 # Welcome to My Portfolio
 
