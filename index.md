@@ -3,13 +3,12 @@ layout: home
 title: Home
 ---
 
-<div style="position: fixed; top: 8vh; left: 0; width: 100%; height: 55vh; z-index: -1; background: url('https://shansdurgut.github.io/ShanDurgut/assets/images/background_pic.jpg') repeat;">
+<div style="position: fixed; top: 5vh; left: 0; width: 100%; height: 100%; z-index: -1; background: url('https://shansdurgut.github.io/ShanDurgut/assets/images/background_pic.jpg') repeat;">
 </div>
 
-<div class="home">
-    
 <div style="background-color: rgba(255, 255, 255, 0.9); padding: 20px; margin: 20px; border-radius: 10px;">
-
+    
+<div class="home">
 # Welcome to My Portfolio
 
 <div style="text-align: center;">
