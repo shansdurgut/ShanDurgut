@@ -65,7 +65,7 @@ Feel free to reach out to me through any of the following channels:
 </div>
 
 
-<div style="background-color: rgba(213, 207, 106, 0.7); padding: 20px; margin: 20px; border-radius: 10px;">
+<div style="background-color: rgba(213, 207, 106, 0.9); padding: 5px; margin: 5px; border-radius: 10px;">
 
 
 
