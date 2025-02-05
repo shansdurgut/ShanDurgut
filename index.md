@@ -2,6 +2,12 @@
 layout: home
 title: Home
 ---
+<div style="background-image: url('/assets/images/background_pic.jpg'); background-repeat: repeat; position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1;"></div>
+
+<div style="background-color: rgba(255, 255, 255, 0.8); padding: 20px; border-radius: 10px; position: relative;">
+
+<img src="/assets/images/background_pic.jpg" alt="background picture" width="200">
+
 
 # Welcome to My Portfolio
 
