@@ -3,13 +3,13 @@ layout: home
 title: Home
 ---
 
-# Welcome to My Portfolio {: .post-title}
+# Welcome to My Portfolio
 
 <div style="text-align: center;">
     <img src="assets/images/profile_pic.jpg" alt="Shan Durgut" width="300" height="400" >
 </div>
 
-# About Me {: .post-content}
+# About Me
 Hi, I'm Shan Durgut, an RF localization and sensor fusion engineer. I design cutting-edge indoor tracking systems that merge data from Ultra-Wideband and Bluetooth sensors using advanced AI models. Recently, I developed a hybrid solution that uses a combination of LSTM and CNN architectures to fuse UWB and BLE data, achieving real-time, high-precision positioning in challenging environments. This approach can significantly enhance applications in smart buildings, robotics, and asset tracking. I’m passionate about leveraging these technologies to solve real-world problems.
 ### Current Goals
 I am a highly motivated self-learner with a strong background in RF engineering, wireless communication, sensor fusion, machine learning. I am dedicated to continuous professional growth. Over the past few years, I have independently pursued online courses certificates and advanced technical projects—including developing an RF localization system using UWB and BLE sensor fusion techniques—to stay at the forefront of emerging technologies. Balancing this commitment with raising two children has honed my time management, adaptability, and problem-solving skills. I am now eager to leverage my self-driven expertise and fresh, innovative insights as I transition back into the industry and contribute to impactful, forward-thinking projects.
@@ -60,14 +60,12 @@ I am a highly motivated self-learner with a strong background in RF engineering,
 Feel free to reach out to me through any of the following channels:
 
 - Email: shanshan.durgut@gmail.com
-- LinkedIn: Shan Durgut | "https://www.linkedin.com/in/shanshanhuang-miray"
-- GitHub: Shan Durgut | "https://shansdurgut.github.io/ShanDurgut"
+- LinkedIn: Shan Durgut, https://www.linkedin.com/in/shanshanhuang-miray
+- GitHub: Shan Durgut, https://shansdurgut.github.io/ShanDurgut
 
 
-
-<div style="position: fixed; top: 4.7vh; left: 0; width: 100%; height: 100%; z-index: -1; background: url('https://shansdurgut.github.io/ShanDurgut/assets/images/background_pic.jpg') repeat;">
+<div style="position: fixed; top: 4.8vh; left: 0; width: 100%; height: 100%; z-index: -1; background: rgba(255, 255, 255, 0.5) url('https://shansdurgut.github.io/ShanDurgut/assets/images/background_pic.jpg') repeat;">
 </div>
 
 <div style="background-color: rgba(255, 255, 255, 0.9); padding: 20px; margin: 20px; border-radius: 10px;">
-    
-<div class="home">
+
