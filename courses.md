@@ -124,7 +124,10 @@ permalink: /courses/
   - Valid until: [Date if applicable]
   - Credential ID: [If applicable]
  
-<div style="position: fixed; top: 4.8vh; left: 0; width: 100%; height: 100%; z-index: -1; background: url('https://shansdurgut.github.io/ShanDurgut/assets/images/background_pic.jpg') repeat; opacity: 0.3">
+<div style="position: fixed; top: 4.8vh; left: 0; width: 100%; height: 100%; z-index: -1;">
+  <div style="width: 100%; height: 100%; background: url('https://shansdurgut.github.io/ShanDurgut/assets/images/background_pic.jpg') repeat; opacity: 0.2">
+  </div>
 </div>
 
-<div style="background-color: rgba(255, 255, 255, 0.9); padding: 20px; margin: 20px; border-radius: 10px;">
+
+<div style="background-color: rgba(204, 202, 183, 0.7); padding: 5px; margin: 5px; border-radius: 10px;">
