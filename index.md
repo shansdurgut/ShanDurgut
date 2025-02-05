@@ -5,9 +5,7 @@ title: Home
 
 # Welcome to My Portfolio
 
-<div style="text-align: center;">
-    <img src="assets/images/profile_pic.jpg" alt="Shan Durgut" width="300" height="400" >
-</div>
+<img src="assets/images/profile_pic.jpg" alt="Shan Durgut" width="300" height="400" >
 
 # About Me
 Hi, I'm Shan Durgut, an RF localization and sensor fusion engineer. I design cutting-edge indoor tracking systems that merge data from Ultra-Wideband and Bluetooth sensors using advanced AI models. Recently, I developed a hybrid solution that uses a combination of LSTM and CNN architectures to fuse UWB and BLE data, achieving real-time, high-precision positioning in challenging environments. This approach can significantly enhance applications in smart buildings, robotics, and asset tracking. I’m passionate about leveraging these technologies to solve real-world problems.
@@ -64,7 +62,7 @@ Feel free to reach out to me through any of the following channels:
 - GitHub: Shan Durgut, https://shansdurgut.github.io/ShanDurgut
 
 
-<div style="position: fixed; top: 4.8vh; bottom: 15vh; left: 0; width: 100%; height: 100%; z-index: -1; background: url('https://shansdurgut.github.io/ShanDurgut/assets/images/background_pic.jpg') repeat; opacity: 0.5">
+<div style="position: fixed; top: 4.8vh; left: 0; width: 100%; height: 100%; z-index: -1; background: url('https://shansdurgut.github.io/ShanDurgut/assets/images/background_pic.jpg') repeat; opacity: 0.5">
 </div>
 
 <div style="background-color: rgba(255, 255, 255, 0.9); padding: 20px; margin: 20px; border-radius: 10px;">
