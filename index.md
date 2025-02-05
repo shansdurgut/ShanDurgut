@@ -2,7 +2,7 @@
 layout: home
 title: Welcome to My Portfolio
 ---
-<div style="background-color: rgba(255, 255, 255, 0.9); padding: 20px; margin: 20px; border-radius: 10px;">
+<style="background-color: rgba(213, 207, 106, 0.7); padding: 20px; margin: 20px; border-radius: 10px;">
 <img src="assets/images/profile_pic.jpg" alt="Shan Durgut" width="300" height="400" >
 
 # About Me
@@ -63,4 +63,6 @@ Feel free to reach out to me through any of the following channels:
   <div style="width: 100%; height: 100%; background: url('https://shansdurgut.github.io/ShanDurgut/assets/images/background_pic.jpg') repeat; opacity: 0.3">
   </div>
 </div>
+
+
 
