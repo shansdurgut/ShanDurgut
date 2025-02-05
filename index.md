@@ -61,8 +61,9 @@ Feel free to reach out to me through any of the following channels:
 - LinkedIn: Shan Durgut, https://www.linkedin.com/in/shanshanhuang-miray
 - GitHub: Shan Durgut, https://shansdurgut.github.io/ShanDurgut
 
-
-<div style="position: fixed; top: 4.8vh; left: 0; width: 100%; height: 100%; z-index: -1; background: url('https://shansdurgut.github.io/ShanDurgut/assets/images/background_pic.jpg') repeat; opacity: 0.3">
+<div style="position: fixed; top: 4.8vh; left: 0; width: 100%; height: 100%; z-index: -1;">
+  <div style="width: 100%; height: 100%; background: url('https://shansdurgut.github.io/ShanDurgut/assets/images/background_pic.jpg') repeat; opacity: 0.3">
+  </div>
 </div>
 
 <div style="background-color: rgba(255, 255, 255, 0.9); padding: 20px; margin: 20px; border-radius: 10px;">
