@@ -1,10 +1,8 @@
 ---
 layout: page
-title: View My Courses
+title: Courses and Certifications
 permalink: /courses/
 ---
-
-# Courses and Certifications
 
 ## University of Iowa Courses
 #### Course Number | Course Title | Sem Hrs
