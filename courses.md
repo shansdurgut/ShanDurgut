@@ -7,7 +7,7 @@ permalink: /courses/
 # Courses and Certifications
 
 ## University of Iowa Courses
-### Course Number | Course Title | Sem Hrs
+#### Course Number | Course Title | Sem Hrs
 ### Fall 2012 / College of Engineering
 - 059 090 Eng Success Seminar for First-Year Stud 1.0 
 - 059 005 Engineering Problem Solving I 3.0 
