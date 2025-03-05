@@ -127,5 +127,6 @@ permalink: /courses/
   </div>
 </div>
 
+<a href="https://map1.maploco.com/visited-countries/mine.php?c1=m672jxbips-b33j9zwphc-b33j9ynrb4-b33j9ynrb4-2rrvthoagw"><img src="https://map1.maploco.com/visited-countries/ml/m672jxbips-b33j9zwphc-b33j9ynrb4-b33j9ynrb4-2rrvthoagw.gif" border=0><br>Map for the Countries I lived in.</a>
 
 <div style="background-color: rgba(204, 202, 183, 0.7); padding: 5px; margin: 5px; border-radius: 10px;">
