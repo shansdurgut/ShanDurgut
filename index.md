@@ -67,7 +67,7 @@ Feel free to reach out to me through any of the following channels:
 
 <a href="https://m.maploco.com/visited-states/mine.php?states=IA-NY-TX&w=lived"><img src="https://map1.maploco.com/visited-states/lived/IA-NY-TX.png" border=0><br>The places I lived in the United States.</a>
 
-<a href="h<a href="https://m.maploco.com/details/ed968lac"><img style="border:0px;" src="https://www.maploco.com/vmap/s/10478532.png" alt="Locations of Site Visitors" title="Locations of Site Visitors"/></a>
+<a href="https://m.maploco.com/details/ed968lac"><img style="border:0px;" src="https://www.maploco.com/vmap/s/10478532.png" alt="Locations of Site Visitors" title="Locations of Site Visitors"/></a>
 
 <div style="background-color: rgba(204, 202, 183, 0.7); padding: 5px; margin: 5px; border-radius: 10px;">
 
